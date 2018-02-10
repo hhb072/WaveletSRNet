@@ -20,7 +20,7 @@ Use the default hyparameters except changing the parameter "upscale" according t
 If you use our codes, please cite the following paper:
 
 >@inproceedings{huang2017wavelet,<br>
-  title={Wavelet-srnet: A wavelet-based cnn for multi-scale face super resolution},<br>
+  >>title={Wavelet-srnet: A wavelet-based cnn for multi-scale face super resolution},<br>
   author={Huang, Huaibo and He, Ran and Sun, Zhenan and Tan, Tieniu},<br>
   booktitle={IEEE International Conference on Computer Vision },<br>
   pages={1689--1697},<br>
