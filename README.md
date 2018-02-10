@@ -19,12 +19,12 @@ Use the default hyparameters except changing the parameter "upscale" according t
 
 If you use our codes, please cite the following paper:
 
-   @inproceedings{huang2017wavelet,
-      title={Wavelet-srnet: A wavelet-based cnn for multi-scale face super resolution},
-      author={Huang, Huaibo and He, Ran and Sun, Zhenan and Tan, Tieniu},
-      booktitle={IEEE International Conference on Computer Vision },
-      pages={1689--1697},
-      year={2017}
-   }
+ 	@inproceedings{huang2017wavelet,
+	  title={Wavelet-srnet: A wavelet-based cnn for multi-scale face super resolution},
+	  author={Huang, Huaibo and He, Ran and Sun, Zhenan and Tan, Tieniu},
+	  booktitle={IEEE International Conference on Computer Vision},
+     pages={1689--1697},
+	  year={2017}
+	}
 
 **The released codes are only allowed for non-commercial use.**
