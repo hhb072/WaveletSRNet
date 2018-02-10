@@ -27,4 +27,4 @@ If you use our codes, please cite the following paper:
    year={2017}<br>
 }
 
-** The released codes are only allowed for non-commercial use.
+* The released codes are only allowed for non-commercial use.
