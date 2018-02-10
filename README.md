@@ -13,4 +13,4 @@ Use the default hyparameters except changing the parameter "upscale" according t
 
 ## Results
 
-![](https://github.com/hhb072/WaveletSRNet//results.png)
+![](https://github.com/hhb072/WaveletSRNet/blob/master/results.png)
