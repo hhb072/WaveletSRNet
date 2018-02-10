@@ -23,7 +23,7 @@ If you use our codes, please cite the following paper:
 	  title={Wavelet-srnet: A wavelet-based cnn for multi-scale face super resolution},
 	  author={Huang, Huaibo and He, Ran and Sun, Zhenan and Tan, Tieniu},
 	  booktitle={IEEE International Conference on Computer Vision},
-     pages={1689--1697},
+	  pages={1689--1697},    
 	  year={2017}
 	}
 
